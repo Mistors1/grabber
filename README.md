@@ -1,2 +1,2 @@
 # grabber
-grsbber for java developer vacations
+grabber for java developer vacations
